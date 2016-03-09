@@ -1,8 +1,6 @@
-## GitHub Top 100 简介
+## (转) GitHub Top 100 简介
 
 主要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况.
-
-**若有任何疑问可通过微博[@李锦发](http://weibo.com/jinfali)联系我**
 
 项目名称 | 项目信息
 ------- | -------
