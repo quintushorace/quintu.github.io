@@ -5,4 +5,8 @@
 
 [文章地址](https://quintusblog.github.io/blog2/)
 
+[写文章](https://github.com/quintusblog/blog2/tree/master/_posts)
+
+
 从今天开始，习惯做记录，保持记录资料的好习惯！
+===
